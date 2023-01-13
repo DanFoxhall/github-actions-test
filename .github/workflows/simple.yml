@@ -1,6 +1,6 @@
-name: Shell commands
+name: Shell commands2
 
-on: pull_request
+on: pullquest
 
 jobs:
   run-shell-command:
